@@ -1,4 +1,4 @@
-# react-practice-projects-list
+# React Practice Projects List
 This a list of the projects I made to practice my React and web development skills.
 
 1. Tic Tac Toe game (jogo da velha):
