@@ -7,4 +7,7 @@ This a list of the projects I made to practice my React and web development skil
   
 2. Find You Colors: app that shows the dominant colors in a given picture. 
   - Live: https://findyourcolors.netlify.com/
-  - Code: the repo is private due to the api key. Send me a message if you are interested in seeing the code.
+  
+  
+Contact: - filipepaiva240@gmail.com 
+         
