@@ -9,6 +9,9 @@ This a list of the projects I made to practice my React and web development skil
   - Live: https://findyourcolors.netlify.com/
   - Code: https://github.com/ribeiro240/find-your-colors
   
+3. To Do App: a simple To Do App, where you can add, edit and delete tasks.
+  - Live: https://todoportfolioapp.netlify.app/
+  - Code: https://github.com/ribeiro240/todo-app
   
 Contact: - filipepaiva240@gmail.com 
          
