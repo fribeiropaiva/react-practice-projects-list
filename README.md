@@ -12,6 +12,10 @@ This a list of the projects I made to practice my React and web development skil
 3. To Do App: a simple To Do App, where you can add, edit and delete tasks.
   - Live: https://todoportfolioapp.netlify.app/
   - Code: https://github.com/ribeiro240/todo-app
+
+4. Easy Expense Tracker: an expense tracker app made with React with Typescript.
+  - Live: https://easy-expense-tracker.netlify.app/
+  - Code: https://github.com/ribeiro240/expense-tracker
   
 Contact: - filipepaiva240@gmail.com 
          
