@@ -16,6 +16,9 @@ This a list of the projects I made to practice my React and web development skil
 4. Easy Expense Tracker: an expense tracker app made with React with Typescript.
   - Live: https://easy-expense-tracker.netlify.app/
   - Code: https://github.com/ribeiro240/expense-tracker
+
+5. FakeShop: a fake shop app to practice Redux. Styling wasn't a priority.
+  - Code: https://github.com/ribeiro240/fake-shop
   
 Contact: - filipepaiva240@gmail.com 
          
